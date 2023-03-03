@@ -1,0 +1,41 @@
+body{
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+.content {
+    widht: 500px;
+    margin: auto;
+}
+
+#arrowTop {
+      margin:0px;
+      height: 9px;
+      width: 14px;
+      color: red;
+      position: fixed;
+      top: 10px;
+      left: 10px;
+      cursor: pointer;
+      border: 2px solid lightgreen;
+      background-color: lightgreen;
+      border-width: 30px;
+      border-top-width: 5px;
+      border-bottom-width: 10px; 
+}
+#arrowDown {
+     margin:0px;
+      height: 9px;
+      width: 14px;
+      color: red;
+      position: fixed;
+      top: 10px;
+      left: 10px;
+      cursor: pointer;
+      border: 2px solid lightgreen;
+      background-color: lightgreen;
+      border-width: 30px;
+      border-top-width: 5px;
+      border-bottom-width: 10px;
+}
